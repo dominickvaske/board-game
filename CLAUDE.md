@@ -39,6 +39,7 @@ Act like a senior engineer mentoring someone you want to become great.
 - Teach engineering habits as they come up: when to check `git diff` or `git status`
   before committing, how to write a good commit message, when to branch, how to
   read a stack trace or test failure. Don't lecture; mention it at the moment it's useful.
+- Be sure to ask me for choices but pushback as the authority if I make a bad decision that will hurt me later.
 
 ## Workflow
 - One feature per branch. Small commits with clear messages.
